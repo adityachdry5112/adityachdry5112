@@ -1,8 +1,6 @@
-<!-- Profile Header -->
-<img src="wolf.png" alt="wolf" style="border-radius: 10px;"/>
-<hr>
+ 
 <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+🐺;+I'm+Aditya+Chaudhary!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+🦁;+I'm+Aditya+Chaudhary!;" />
 </h1>
 
 <h3 style="color:#4A90E2; font-weight: bold;">

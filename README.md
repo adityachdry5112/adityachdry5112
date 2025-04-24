@@ -1,6 +1,8 @@
- 
+<!-- Profile Header -->
+<img src="wolf.png" alt="wolf" style="border-radius: 10px;"/>
+<hr>
 <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+🦁;+I'm+Aditya+Chaudhary!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+🐺;+I'm+Aditya+Chaudhary!;" />
 </h1>
 
 <h3 style="color:#4A90E2; font-weight: bold;">
@@ -33,7 +35,23 @@
 </div>
 
 <!-- Tech Stack Section -->
-<!-- Same Tech Stack code from your message goes here -->
+<h2 align="center" style="margin-top: 40px;">💻 Tech <span style="color:#FF9100">Stack</span></h2>
+
+<!-- Programming Languages -->
+<h3>*Programming Languages:*</h3>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+
+<!-- Data Science -->
+<h3>*Data Science:*</h3>
+<img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+
+<!-- Operating Systems -->
+<h3>*Operating Systems:*</h3>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 
 <!-- Python Bio Section -->
 ```python
@@ -50,6 +68,6 @@ class SoftwareEngineer:
         ]
     
     def hometown(self):
-        return "India"  # Update with specific city if you'd like
+        return "India"  # Update if you want a more specific location
 
 me = SoftwareEngineer()
